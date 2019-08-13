@@ -8,7 +8,6 @@
     "editor.renderWhitespace": "all",
     "editor.smoothScrolling": true,
     "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": true,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "explorer.sortOrder": "filesFirst",
