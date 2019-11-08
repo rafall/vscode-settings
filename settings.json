@@ -10,6 +10,9 @@
     "editor.cursorBlinking": "phase",
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
+    "editor.fontFamily": "Victor Mono",
+    "editor.fontLigatures": true,
+    "explorer.sortOrder": "filesFirst",
     "editor.tokenColorCustomizations": {
         "textMateRules": [
           {
@@ -22,5 +25,7 @@
             }
           }
         ]
-    }
+    },
+    "files.autoSave": "off",
+    "workbench.colorTheme": "Monokai"
 }
